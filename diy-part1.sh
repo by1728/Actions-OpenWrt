@@ -19,3 +19,5 @@ cd lede/package/lean
 rm -rf luci-theme-argon  
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git  
 git clone https://github.com/maxlicheng/luci-app-ssr-plus.git
+git clone https://github.com/jerrykuku/lua-maxminddb.git  #git lua-maxminddb 依赖
+git clone https://github.com/jerrykuku/luci-app-vssr.git  
